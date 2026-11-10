@@ -1,0 +1,9 @@
+img{
+    width: 75px;
+}
+
+body{
+    background-image: url(https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AJGomAaw72GBd79TiApU9k0EvmyIR8q8jUX1KQkvjO7ykuVYzXsv1U43pYh0m2wE4x4oIgkjN%2FdIHd97DZW0w2kZTV6Ezk4CFz1m3QTi6ioh1jH6DFZAN37Std6LguplFTPkztNIxniDKMP12sxMC4E6mi%2FcSlob1pWFPwPZ%2BFhYXV8oOvttHt0cmTZzG6JRlkMqy6IKmYmIDRtCcXawEkyWW6cJ4bEBl3zleagDk7tkKstHHkw3vpLHYZeQ09i2WwMygTpBocVTCZIv%2BcKenrf7F6pJFHO4bbLeyGra1BFgZ0jdR%2B6p9RIkcz1eUUKXrBLEeF1oyV4%2BglJiu7Sd5eTGE0jOS8y9XyPnygypSvl0Xztvq6aWY8XdL2meZNBjRFPwyRwz3p32ihfrXUg1Th1sB54b4QoaUe6EA5KDstqoN0tN7%2B8bGtyPA%2F8x7OfErqWS%2FSAyXdyn%2Fi7zRdMHD0WnQqj30BLFiOyeNrL8qjjfuNAtq2%2F49XNJ78SDRlIpwJZPrxpCYEGjiRKvYEbphb%2B3qCta%2FHFJRBC3%2FuRJo6KtuvHjR3d0NIn3Lktf7s5qhPUvhJA%2BZIEYv%2BvT4XSmd0TxPPFy1qajS9vvxFdJtfVcPjPK8mdzwK9spCJBOTwJad0%2BrzPDhw%3D%3D&allow_caching=true&sz=w512);
+    width: 100%;
+}
+
